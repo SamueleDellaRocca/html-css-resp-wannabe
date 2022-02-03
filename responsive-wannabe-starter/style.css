@@ -92,12 +92,13 @@ img {
     align-items: center;
     margin-top: 0;
     font-size: 3rem;
-    padding: 10px 0px;
+    padding: 20px 10px;
   }
 
   #steps .row {
     background-color: white;
   }
+
 
 
 }
