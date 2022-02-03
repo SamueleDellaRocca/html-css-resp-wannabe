@@ -101,12 +101,19 @@ img {
 
   #lezioni .row>.left, #lezioni .row>.right {
     width: 100%;
+    margin-bottom: 20px;
   }
 
   #steps .row>.left, #steps .row>.central, #steps .row>.right {
     width: 100%;
+    margin-bottom: 20px;
   }
 
+  #lezioni h1, #steps h1 {
+    margin-bottom: 20px;
+  }
 
-
+  #why h1 {
+    margin-bottom: -40px;
+  }
 }
