@@ -116,4 +116,8 @@ img {
   #why h1 {
     margin-bottom: -40px;
   }
+
+  #why .row>.first, #why .row>.second, #why .row>.third {
+    margin-top: 60px;
+  }
 }
